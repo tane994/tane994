@@ -12,7 +12,7 @@ I'm a software engineer passionate about crafting innovative web solutions and e
 
 ### Current Focus
 
-🛠️ I am currently enhancing my skills in **Express** to build more robust APIs. My primary focus lies in web development and IoT, where I apply my programming knowledge to solve complex problems.
+🛠️ I am currently enhancing my skills in **Express** to build more robust APIs. 
 
 ### Open Source and Collaboration
 
