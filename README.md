@@ -23,6 +23,7 @@ I'm a software engineer passionate about crafting innovative web solutions and e
 🌐 If you're interested in discussing technology, potential collaborations, or just want to connect, don’t hesitate to reach out!
 
 - 📫 **Email**: [andres.tanesini94@gmail.com](mailto:andres.tanesini94@gmail.com)
-- 🔗 **LinkedIn**: [https://www.linkedin.com/in/andres-tanesini/](https://www.linkedin.com/in/andres-tanesini/)
+- 📥 **LinkedIn**: [https://www.linkedin.com/in/andres-tanesini/](https://www.linkedin.com/in/andres-tanesini/)
+- 🔗 **Personal Website** [http://atanesini.com]((http://atanesini.com))
 
 # tane994
